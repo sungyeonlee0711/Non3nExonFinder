@@ -90,14 +90,7 @@ Random seeds:
 No discrepancies were detected between Non3nExonFinder and the independently reconstructed annotations or candidate sets.
 
 Validation output files are provided in the `results` and `results_LARGE` directories.
-Random seeds:
 
-- Human: 260921
-- Mouse: 260922
-
-No discrepancies were detected between Non3nExonFinder and the independently reconstructed annotations or candidate sets.
-
-Validation output files are provided in the `results` directory.
 
 ## Repository contents
 
@@ -108,6 +101,7 @@ Non3nExonFinder/
 ├── validation/
 ├── results/
 └── results_LARGE/
+```
 
 ## Citation
 
