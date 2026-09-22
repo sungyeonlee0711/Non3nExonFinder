@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Non3nExonFinder, please cite this software."
+title: "Non3nExonFinder"
+version: 1.0.0
+type: software
+license: MIT
+authors:
+  - family-names: "Lee"
+    given-names: "Sung-Yeon"
+    affiliation: "GEM Division, Macrogen Inc."
+  - family-names: "Lee"
+    given-names: "Joo-Hee"
+    affiliation: "GEM Division, Macrogen Inc."
+abstract: "An R/Shiny tool for transcript-aware identification of shared non-triplet coding exons across human and mouse RefSeq transcripts."
+keywords:
+  - CRISPR
+  - exon deletion
+  - RefSeq
+  - transcript annotation
+  - reading frame
