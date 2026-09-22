@@ -105,6 +105,6 @@ Non3nExonFinder/
 
 ## Citation
 
-Lee S-Y. Non3nExonFinder: transcript-aware identification of shared non-triplet coding exons.
+Lee S-Y, Lee J-H. Non3nExonFinder: transcript-aware identification of shared non-triplet coding exons.
 
 Citation information will be updated after publication.
