@@ -1,0 +1,5 @@
+"stage","raw_gtf_n","app_n","exact_match"
+"All common exons",9,9,TRUE
+"Common CDS-only exons",6,6,TRUE
+"Common non-3n exons",5,5,TRUE
+"High-confidence candidates",5,5,TRUE

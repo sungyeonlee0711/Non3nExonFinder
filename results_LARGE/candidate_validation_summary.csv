@@ -1,0 +1,9 @@
+"species","stage","matched","total","concordance_pct"
+"Human","All common exons",40,40,100
+"Human","Common CDS-only",40,40,100
+"Human","Common non-3n",40,40,100
+"Human","High-confidence",40,40,100
+"Mouse","All common exons",40,40,100
+"Mouse","Common CDS-only",40,40,100
+"Mouse","Common non-3n",40,40,100
+"Mouse","High-confidence",40,40,100

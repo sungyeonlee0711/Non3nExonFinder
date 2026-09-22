@@ -1,0 +1,13 @@
+"species","metric","matched","total","concordance_pct"
+"Human","Exon coordinates / rank",4553,4553,100
+"Mouse","Exon coordinates / rank",2295,2295,100
+"Human","Coding contribution",4553,4553,100
+"Mouse","Coding contribution",2295,2295,100
+"Human","CDS/UTR classification",4553,4553,100
+"Mouse","CDS/UTR classification",2295,2295,100
+"Human","Modulo-three classification",4553,4553,100
+"Mouse","Modulo-three classification",2295,2295,100
+"Human","Non-3n classification",4553,4553,100
+"Mouse","Non-3n classification",2295,2295,100
+"Human","Internal-exon status",4553,4553,100
+"Mouse","Internal-exon status",2295,2295,100
